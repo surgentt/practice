@@ -1,0 +1,1 @@
+## Practice Problems from Euler and Interviews. Just some fun, nothing serious
