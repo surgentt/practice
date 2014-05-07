@@ -29,7 +29,6 @@ end
 trade = Trade.new("Tom", "GS", 1000)
 trade = Trade.new("Bob", "MS", -500)
 trade = Trade.new("Tom", "GS", -200)
-
 trade = Trade.new("Joe", "GS", -1100)
 trade = Trade.new("Bob", "MS", 700)
 
